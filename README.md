@@ -4,6 +4,8 @@
 
 ---
 
+![](./doc/cover.jpg)
+
 **Advanced Lane Finding Project**
 
 The goals / steps of this project are the following:
