@@ -1,8 +1,8 @@
 import cv2
 import glob
-from lib.pipeline import LanePipeline
-from lib.params import PARAMS
-from lib.video import VideoProcess
+from library.pipeline import LanePipeline
+from library.params import PARAMS
+from library.video import VideoProcess
 
 """for im_path in glob.glob('test_images/*.jpg'):
     im = cv2.imread(im_path)
